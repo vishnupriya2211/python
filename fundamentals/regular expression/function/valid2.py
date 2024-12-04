@@ -1,0 +1,3 @@
+new="{[]}"
+
+print(new)

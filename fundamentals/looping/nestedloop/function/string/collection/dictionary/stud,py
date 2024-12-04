@@ -1,0 +1,11 @@
+#Given a dictionary where the keys are student names and the values are their scores, write a program to calculate the average score.
+
+stud_scores = {"prakrithi": 85,"anupama": 90,"nandhu": 78,"tintu": 92,"tinu": 88}
+
+total_score = sum(stud_scores.values())
+
+number_of_students = len(stud_scores)
+
+average_score = total_score / number_of_students
+
+print(f"The average score is {average_score:.2f}")

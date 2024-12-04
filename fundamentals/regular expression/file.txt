@@ -1,0 +1,3 @@
+regular expression is used for the pattern matching
+
+finditer: athokay place il anne matches vannekunath ath ellam return cheyum
